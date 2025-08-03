@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kierandoc, a begginer programming student.
+- 👋 Hi, I’m @kierandoc, A College Graduate in Cyber Security
 - 👀 I’m interested in ... AI, Software engineering, Gaming and Cyber Security.
 - 🌱 I’m currently learning ... Python and some C++
 - 💞️ I’m looking to collaborate on ... Nothing currently
